@@ -490,3 +490,4 @@ C:\Users\User\source\repos\GLMS-CORE-APP.Tests\obj\Debug\net8.0\refint\GLMS-CORE
 C:\Users\User\source\repos\GLMS-CORE-APP.Tests\obj\Debug\net8.0\GLMS-CORE-APP.Tests.pdb
 C:\Users\User\source\repos\GLMS-CORE-APP.Tests\obj\Debug\net8.0\GLMS-CORE-APP.Tests.genruntimeconfig.cache
 C:\Users\User\source\repos\GLMS-CORE-APP.Tests\obj\Debug\net8.0\ref\GLMS-CORE-APP.Tests.dll
+C:\Users\User\source\repos\GLMS-CORE-APP.Tests\obj\Debug\net8.0\GLMS-CORE-APP.Tests.sourcelink.json
